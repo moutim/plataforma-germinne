@@ -8,6 +8,8 @@ A Germinne é uma plataforma que busca revolucionar a relação das pessoas com 
 
 Nosso [Linketree](https://linktr.ee/germinne) 🌐.
 
+Nosso [dossiê](https://www.canva.com/design/DAF2QlOWjKc/JFzaieZ3HUZS5TgryaHNEQ/edit?utm_content=DAF2QlOWjKc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 📄.
+
 ## Funcionalidades
 
 ### Blog 📚
